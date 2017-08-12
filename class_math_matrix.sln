@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class_math_matrix", "class_math_matrix\class_math_matrix.vcxproj", "{105C5E18-6AF1-4D3A-8247-1EFCC5ACC55B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LoadLtbFile", "LoadLtbFile\LoadLtbFile.vcxproj", "{F08453D5-8FE0-4292-AA18-885946B4EA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{105C5E18-6AF1-4D3A-8247-1EFCC5ACC55B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{105C5E18-6AF1-4D3A-8247-1EFCC5ACC55B}.Debug|Win32.Build.0 = Debug|Win32
+		{105C5E18-6AF1-4D3A-8247-1EFCC5ACC55B}.Release|Win32.ActiveCfg = Release|Win32
+		{105C5E18-6AF1-4D3A-8247-1EFCC5ACC55B}.Release|Win32.Build.0 = Release|Win32
+		{F08453D5-8FE0-4292-AA18-885946B4EA94}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F08453D5-8FE0-4292-AA18-885946B4EA94}.Debug|Win32.Build.0 = Debug|Win32
+		{F08453D5-8FE0-4292-AA18-885946B4EA94}.Release|Win32.ActiveCfg = Release|Win32
+		{F08453D5-8FE0-4292-AA18-885946B4EA94}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

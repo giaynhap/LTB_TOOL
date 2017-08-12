@@ -1,0 +1,134 @@
+﻿  main_test.cpp
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(13): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(85): warning C4091: 'typedef ': ignored on left of 'ltb_submesh' when no variable is declared
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(130): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(131): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(159): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(175): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(176): warning C4244: '=': conversion from 'long double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(193): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(194): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(195): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(196): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(210): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(211): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(212): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(213): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(214): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(441): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(447): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(451): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(453): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(454): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(484): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(485): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(504): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(506): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(522): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(525): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(530): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(532): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(538): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\Model.h(558): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(169): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(188): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(189): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(190): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(215): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(216): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(217): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(392): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(400): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(463): warning C4101: 'a': unreferenced local variable
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadLtb.h(483): warning C4356: 'Model::m_iFPS': static data member cannot be initialized via derived class
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(21): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(40): warning C4996: '_wfopen': This function or variable may be unsafe. Consider using _wfopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstdio.h(129): note: see declaration of '_wfopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(144): warning C4018: '<': signed/unsigned mismatch
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(164): warning C4018: '<': signed/unsigned mismatch
+F:\visual studio 2010\Projects\class_math_matrix\LoadLtbFile\gnLoadWmdl.h(174): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\TgaHeader.h(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(6): warning C4005: 'GL_VERTEX_ARRAY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\GL/gl.h(1032): note: see previous definition of 'GL_VERTEX_ARRAY'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\ImageLoad.h(31): warning C4091: 'typedef ': ignored on left of 'DtxHeader' when no variable is declared
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\ImageLoad.h(323): warning C4018: '<': signed/unsigned mismatch
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\ImageLoad.h(379): warning C4018: '<': signed/unsigned mismatch
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\ImageLoad.h(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(41): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(41): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(89): warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdlib.h(920): note: see declaration of 'mbstowcs'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(96): warning C4101: 'uiVAO': unreferenced local variable
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(209): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+f:\visual studio 2010\projects\class_math_matrix\class_math_matrix\MainFunction.h(239): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(346): note: see declaration of 'strncpy'
+main_test.cpp(22): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+main_test.cpp(25): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+main_test.cpp(58): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+main_test.cpp(71): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main_test.cpp(72): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+main_test.cpp(213): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+main_test.cpp(308): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(559): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+main_test.cpp(561): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+main_test.cpp(437): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(468): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(469): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(485): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(486): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+main_test.cpp(542): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: see declaration of 'wcscpy'
+main_test.cpp(739): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+main_test.cpp(708): warning C4101: 'ps': unreferenced local variable
+main_test.cpp(762): warning C4101: 'ps': unreferenced local variable
+  class_math_matrix.vcxproj -> F:\visual studio 2010\Projects\class_math_matrix\Debug\class_math_matrix.exe
+  class_math_matrix.vcxproj -> F:\visual studio 2010\Projects\class_math_matrix\Debug\class_math_matrix.pdb (Full PDB)
